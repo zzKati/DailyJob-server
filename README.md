@@ -8,11 +8,12 @@ npm install
 ```
 
 ```sh
-进去跟目录
+#进入跟目录
 cd .\src
-`
-``
+```
+
 ```sh
+#启动项目
 node app.js
 ```
 
