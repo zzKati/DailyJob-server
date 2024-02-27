@@ -8,7 +8,7 @@ npm install
 ```
 
 ```sh
-#进入跟目录
+#进入根目录
 cd .\src
 ```
 
